@@ -1,0 +1,20 @@
+.h2 {color: rgb(100, 100, 100);}
+.top{height: 38px;}
+.verano{
+    background: radial-gradient(ellipse, rgb(213, 241, 252), rgb(23, 159, 250), rgb(100, 224, 255));
+}
+.h1v{color: whitesmoke;}
+.h2v{color: steelblue;}
+.encuesta{display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(184, 184, 184), rgb(102, 102, 102));}
+.otoño{background: radial-gradient(ellipse, rgb(212, 155, 79), rgb(255, 255, 255),rgb(187, 123, 27));}
+.h1o{color: rgb(255, 255, 255);}
+.h2o{color: brown;}
+.invierno{background: radial-gradient(ellipse, rgb(155, 216, 240), rgb(159, 199, 201), rgb(235, 251, 255));}
+.h1i{color: white;}
+.h2i{color: rgb(141, 203, 224);}   
+.primavera{background: radial-gradient(ellipse, rgb(124, 255, 1), rgb(68, 167, 3), rgb(238, 255, 7));}
+.h1p{color: white;}
+.h2p{color: green;}
