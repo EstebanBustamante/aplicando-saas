@@ -1,0 +1,92 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background: radial-gradient(ellipse, white, #d0d2d3, #636363);
+}
+
+.h2in {
+  color: #646464;
+}
+
+.top {
+  height: 38px;
+}
+
+.verano {
+  background: radial-gradient(ellipse, #d5f1fc, #179ffa, #64e0ff);
+}
+
+.h1v {
+  color: whitesmoke;
+}
+
+.h2v {
+  color: steelblue;
+}
+
+.encuesta {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(white), color-stop(#b8b8b8), to(#666666));
+  background-image: linear-gradient(white, #b8b8b8, #666666);
+}
+
+.otoño {
+  background: radial-gradient(ellipse, #d49b4f, white, #bb7b1b);
+}
+
+.h1o {
+  color: white;
+}
+
+.h2o {
+  color: brown;
+}
+
+.invierno {
+  background: radial-gradient(ellipse, #9bd8f0, #9fc7c9, #ebfbff);
+}
+
+.h1i {
+  color: white;
+}
+
+.h2i {
+  color: #8dcbe0;
+}
+
+.primavera {
+  background: radial-gradient(ellipse, #7cff01, #44a703, #eeff07);
+}
+
+.h1p {
+  color: white;
+}
+
+.h2p {
+  color: green;
+}
+
+footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=estilo.css.map */
